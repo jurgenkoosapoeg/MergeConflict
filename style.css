@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#logo {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 48px;
+    padding: 10px;
+}
+
+#nupud {
+    font-family: Arial;
+}
+
+#nupud p {
+    display: inline;
+    padding: 10px;
+}
+
+footer {
+    padding: 20px;
+}
+
+.footer_div {
+    display: inline-block;
+    width: 49%;
+}
+
+#sotsiaalmeediad {
+    align-items: right;
+}
+
+#sotsiaalmeediad div {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    float: right;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid;
+    border-radius: 50px;
+}
